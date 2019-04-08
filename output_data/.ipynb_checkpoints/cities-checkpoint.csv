@@ -1,0 +1,4 @@
+City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Long,Max Temp,Wind Speed
+0,yellowknife,90,CA,1554691325,86,62.45,-114.38,30.2,12.75
+1,killybegs,92,IE,1554691323,87,54.63,-8.45,44.01,3.0
+2,griffith,8,AU,1554688800,33,-34.29,146.06,77.0,5.82
